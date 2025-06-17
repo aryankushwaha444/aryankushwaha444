@@ -1,19 +1,64 @@
-<!-- Animated Hacker Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Aaryan+Kushawaha;💀+Cybersecurity+Learner;🔓+Ethical+Hacking+Practitioner;💻+Web+App+Developer" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Aaryan Kushawaha</h1>
+<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Full-Stack Developer</h3>
 
-<!-- Hacker Background Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/d7zXZ1pM9U4tA/giphy.gif" width="800"/>
+  <img src="https://i.imgur.com/2f6eXJ5.gif" alt="hacker animation" width="600"/>
 </p>
 
 ---
 
-<h2 align="center">🧠 Who Am I?</h2>
+## 🧠 About Me
 
-```bash
-> echo "Cybersecurity enthusiast exploring the digital frontier..."
-> user: aaryankushawaha
-> role: penetration_tester | fullstack_dev
-> skillset: [Python, Django, React, Linux, Burp Suite, Nmap, MongoDB]
+- 💻 Passionate about Ethical Hacking, Cybersecurity, and Full-Stack Web Development  
+- 🔐 Learning Web Application Security, CTFs, and Vulnerability Analysis  
+- 🚀 Currently working on MERN + Django projects and a private pentesting lab  
+- 🌍 Portfolio: [aaryankushawaha.com.np](https://aaryankushawaha.com.np)  
+- 📫 Email: rupnarayan444@gmail.com  
+
+---
+
+## 🛠️ Skills
+
+### Languages & Frameworks  
+- HTML, CSS, JavaScript, Python, PHP  
+- React.js, Node.js, Express, Django  
+
+### Security Tools  
+- Nmap, Burp Suite, Metasploit, Wireshark, OWASP ZAP  
+
+### Databases & Platforms  
+- MongoDB, MySQL  
+- Linux, Git, GitHub  
+
+---
+
+## 📂 Projects
+
+### 🔐 House Permit Portal (MERN Stack)  
+An online platform for municipal construction permits with payment integration and admin dashboard.
+
+### 🏨 Hotel Management System (Django)  
+Full-featured booking and billing platform for hotel operations with Django backend and user management.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryankushawaha&show_icons=true&theme=github_dark&hide_title=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryankushawaha&theme=github-dark-blue" height="150"/>
+</p>
+
+---
+
+## 💬 Quote
+
+> “Hack the planet. Secure the future.”  
+
+---
+
+<p align="center">
+  <a href="https://github.com/aaryankushawaha">
+    <img src="https://komarev.com/ghpvc/?username=aaryankushawaha&label=Profile+Views&color=green" alt="aaryankushawaha" />
+  </a>
+</p>

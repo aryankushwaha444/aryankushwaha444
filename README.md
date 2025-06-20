@@ -47,7 +47,7 @@
 </p>
   
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,java,cpp,php" alt="Languages I Use" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankushwaha444&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%"/>
 </p>
 
 

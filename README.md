@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Cool Coding Banner" width="100%"/>
+  <img src="[https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-gif-coding-discover-share-gifs--858428378991517366%2F&psig=AOvVaw0d5DI_ck5b6BSgEqEj32O0&ust=1750471253530000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJif9dzz_o0DFQAAAAAdAAAAABAE)" alt="Cool Coding Banner" width="100%"/>
 </p>
 
 <!-- Typing animation -->

@@ -57,14 +57,14 @@
 
 ## 🌐 Portfolio
 
-🚧 **Personal portfolio site coming soon!**
+🚧 <a url="https://www.aaryankushawaha.com.np" alt="PortFolio" />
 
 ---
 
 ## 📫 Let's Connect
 
 Got a cool project or idea?  
-📧 aryankushwaha444@example.com
+📧 aryankushwaha444@gmail.com
 
 ---
 

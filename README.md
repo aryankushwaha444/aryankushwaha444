@@ -2,7 +2,6 @@
   <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="Cool Coding Banner" width="100%" />
 </p>
 
-
 <!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=800&color=00ff99&center=true&width=600&lines=Hi+there!+I'm+Aryan+Kushwaha;Full+Stack+Developer+%7C+Cybersecurity+Enthusiast;Ethical+Hacking+Learner+from+Nepal" alt="Typing Animation"/>

@@ -47,7 +47,7 @@
 </p>
   
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,php,mysql,mongodb,java,cpp,csharp,linux,docker,bash,postman,git" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,java,cpp,php" alt="Languages I Use" />
 </p>
 
 

@@ -46,7 +46,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aryankushwaha444&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
 </p>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankushwaha444&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankushwaha444&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%"/>
 </p>
 
 

@@ -18,10 +18,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Passionate Full Stack Developer based in Nepal  
-- 🔐 Cybersecurity Enthusiast & Ethical Hacking Learner  
+- 🎓 Passionate Full Stack Developer
+- 🔐 Cybersecurity Enthusiast
 - 🔭 Currently building **Quiz Battleground** project  
-- 💬 Ask me about React, Django, Node.js, Express.js, Ethical Hacking  
+- 💬 Ask me about React, Node.js, Express.js, Ethical Hacking  
 
 ---
 

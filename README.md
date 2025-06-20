@@ -56,7 +56,7 @@
 
 ## 🌐 Portfolio
 
-🚧 <a url="https://www.aaryankushawaha.com.np" alt="PortFolio" /> Portfolio
+🚧 https://www.aaryankushawaha.com.np
 
 ---
 

@@ -48,8 +48,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aryankushwaha444&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/aryankushwaha444">
+    <img src="https://github-readme-stats.vercel.app/api?username=aryankushwaha444&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  </a>
 </p>
+
 
 
 ---

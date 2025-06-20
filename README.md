@@ -49,15 +49,14 @@
 ## 🔥 Fun Facts
 
 - 💡 "Always building something new, even if it's just in my head!"  
-- 🌱 Currently learning: Node.js, Machine Learning basics  
-- 🎮 Hobbies: Gaming & music  
-- ☕ Fuel: Black coffee & Lofi beats  
+- 🌱 Currently learning:   
+- 🎮 Hobbies: Gaming, Music & Travelling  
 
 ---
 
 ## 🌐 Portfolio
 
-🚧 <a url="https://www.aaryankushawaha.com.np" alt="PortFolio" />
+🚧 <a url="https://www.aaryankushawaha.com.np" alt="PortFolio" /> Portfolio
 
 ---
 

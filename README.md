@@ -4,14 +4,14 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=800&color=00ff99&center=true&width=600&lines=Hi+there!+I'm+Aryan+Kushwaha;Full+Stack+Developer;Cybersecurity+Enthusiast;Ethical+Hacking+Learner" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=800&color=00ff99&center=true&width=600&lines=Hi+there!+I'm+Aryan+Kushwaha;Full+Stack+Developer;Cybersecurity+Enthusiast" alt="Typing Animation"/>
 </p>
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://github.com/aryankushwaha444" target="_blank"><img src="https://img.shields.io/badge/GitHub-aryankushwaha444-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/aryankushwaha444" target="_blank"><img src="https://github.com/aryankushwaha444" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/aryan-kushwaha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Kushwaha-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:aryankushwaha444@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:aryankushwaha444@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---

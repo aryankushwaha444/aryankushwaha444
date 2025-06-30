@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=800&color=00ff99&center=true&width=600&lines=Hi+there!+I'm+Aryan+Kushwaha;Full+Stack+Developer;Cybersecurity+Enthusiast" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=800&color=00ff99&center=true&width=600&lines=Hi+there!+I'm+Aryan+Kushwaha;Full+Stack+Developer+(MERN);Cybersecurity+Enthusiast" alt="Typing Animation"/>
 </p>
 
 <!-- Social badges -->

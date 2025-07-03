@@ -35,20 +35,10 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,c,dotnet,css,django,docker,express,git,html,java,javascript,linux,mongodb,mysql,nodejs,php,postman,python,react,selenium,tailwind" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,dotnet,django,docker,express,git,html,java,javascript,linux,mongodb,mysql,nodejs,php,postman,python,react,selenium,tailwind" alt="Tech Stack" />
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryankushwaha444&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-</p>
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankushwaha444&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%"/>
-</p>
 
 
 
